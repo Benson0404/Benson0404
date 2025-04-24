@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Benson Lu.
-I am currently studying at National Sun Yat-sen University.
-My favorite sport is badminton.
-I also enjoy riding my bike on holidays.
-I am majoring in business management and also learning programming.
+My name is Benson Lu  
+I am currently studying at National Sun Yat-sen University  
+My favorite sport is badminton  
+I also enjoy riding my bike on holidays  
+I am majoring in business management and also learning programming  
